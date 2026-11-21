@@ -82,6 +82,10 @@ I'm a full-stack developer with Five years of hands-on experience turning busine
 
 Need a web app, an API, a NetSuite customization or a full product built end-to-end? Get in touch.
 
-**[LinkedIn](www.linkedin.com/in/mostafa-anwer-)** · **[Email](mostafaelfallah4@gmail.com)** · **[WhatsApp](https://wa.me/01554016562)**
+<p align="center">
+  <a href="https://www.linkedin.com/in/mostafa-anwer-"><img src="https://img.shields.io/badge/LinkedIn-mostafa--anwer-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:mostafaelfallah4@gmail.com"><img src="https://img.shields.io/badge/Email-mostafaelfallah4%40gmail.com-10B981?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://wa.me/201554016562"><img src="https://img.shields.io/badge/WhatsApp-%2B20%20155%20401%206562-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+</p>
 
 <!-- profile README -->
