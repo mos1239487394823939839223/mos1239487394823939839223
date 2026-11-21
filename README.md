@@ -10,7 +10,7 @@
 
 ## About me
 
-I'm a full-stack developer with Five years of hands-on experience turning business requirements into production software: storefronts with online payments, clinic platforms, ERP extensions and offline desktop systems.
+I'm a full-stack developer with five years of hands-on experience turning business requirements into production software: storefronts with online payments, clinic platforms, ERP extensions and offline desktop systems.
 
 - Building enterprise solutions at **Bellatrix**
 - **NetSuite Certified Administrator** (2025), connecting custom development with ERP
